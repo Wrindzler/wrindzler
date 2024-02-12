@@ -19,9 +19,8 @@ Feel free to check them out and provide feedback!
 
 ## Skills
 
-- Programming Languages: [Basic python, basic html, css ,js]
-- Web Development: [Some front-end skills.]
-- Other: [I'm really good at finding solutuons at the problems.]
+- Programming Languages: [Basic python]
+- Web Development: [basic html, css ,js]
 
 
 Looking forward to connecting with fellow developers and enthusiasts! Let's code something amazing together! 🚀
