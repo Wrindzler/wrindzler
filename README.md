@@ -40,4 +40,3 @@ Merhaba! Ben **Emre **, bilgisayar mühendisliği 2. sınıf öğrencisiyim ve �
 
 ## 📫 Contact
 - **Email:** emreguc413@gmail.com  
-- **LinkedIn:** [Emre Berk Güç](https://www.linkedin.com/in/emrebg/)  
