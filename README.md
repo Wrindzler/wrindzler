@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Merhaba! Ben **Emre **, bilgisayar mühendisliği 2. sınıf öğrencisiyim ve özellikle **bilgi güvenliği**, **Python geliştirme**, **C++ programlama** ve **veritabanı yönetimi** alanlarına ilgi duyuyorum. Şu anda **Kocaeli Sağlık ve Teknoloji Üniversitesi'nde** eğitim görüyorum ve çeşitli hackathon ve programlama yarışmalarında başarılar elde ettim.
+Merhaba! Ben **Emre**, bilgisayar mühendisliği 2. sınıf öğrencisiyim ve özellikle **bilgi güvenliği**, **Python geliştirme**, **C++ programlama** ve **veritabanı yönetimi** alanlarına ilgi duyuyorum. Şu anda **Kocaeli Sağlık ve Teknoloji Üniversitesi'nde** eğitim görüyorum ve çeşitli hackathon ve programlama yarışmalarında başarılar elde ettim.
 
 ## 🏆 Achievements
 - 🥇 **Spring 2024 KOSTÜ Python League Champion**
