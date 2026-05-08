@@ -1,5 +1,5 @@
 <div align="center">
-#                                                                                    Emre Berk Güç
+#                                                                                   **Emre Berk Güç**
 </div>
 <div align="center">
 
