@@ -1,7 +1,6 @@
 <div align="center">
-**Emre Berk Güç**
-</div>
-<div align="center">
+
+<h1>Emre Berk Güç</h1>
 
 **Computer Engineering Student | Backend Developer | AI Agent Systems**
 
