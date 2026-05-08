@@ -14,7 +14,7 @@ Kocaeli, Türkiye · [LinkedIn](https://www.linkedin.com/in/emrebg/) · [GitHub]
 
 Merhaba, ben **Emre Berk Güç**. **Kocaeli Sağlık ve Teknoloji Üniversitesi**'nde **3. sınıf Bilgisayar Mühendisliği** öğrencisiyim. Backend geliştirme, veri tabanı tasarımı, yapay zeka ajanları ve web tabanlı sistemler üzerine çalışıyorum.
 
-Python, C++, SQL, Flask, Node.js, Express.js ve React/Vite ile projeler geliştiriyorum. Özellikle temiz API yapıları, rol tabanlı kullanıcı sistemleri, veritabanı modelleme ve gerçek ihtiyaçlara çözüm üreten uygulamalar geliştirmeye odaklanıyorum. **CodeJury** projesinde yapay zeka ajanlarının geliştirilmesi, görev akışlarının tasarlanması ve backend tarafıyla entegre çalışması üzerine aktif rol alıyorum.
+Python, C++, SQL, Flask, Node.js, Express.js ve React/Vite ile projeler geliştiriyorum. Özellikle temiz API yapıları, rol tabanlı kullanıcı sistemleri, veritabanı modelleme ve gerçek ihtiyaçlara çözüm üreten uygulamalar geliştirmeye odaklanıyorum. [**CodeJury**](https://github.com/VisusVision/CodeJury) projesinde yapay zeka ajanlarının geliştirilmesi, görev akışlarının tasarlanması ve backend tarafıyla entegre çalışması üzerine aktif rol alıyorum.
 
 ## Odak Alanlarım
 
@@ -30,7 +30,7 @@ Python, C++, SQL, Flask, Node.js, Express.js ve React/Vite ile projeler gelişti
 
 | Proje | Açıklama | Teknolojiler |
 | --- | --- | --- |
-| **CodeJury - Yapay Zeka Ajanları** | Kod değerlendirme ve karar destek süreçlerinde kullanılan yapay zeka ajanlarının geliştirilmesinde aktif rol alıyorum. Ajanların görev akışları, değerlendirme mantığı, backend entegrasyonu ve çok adımlı süreçlerde daha tutarlı çalışması üzerine çalışıyorum. | AI Agents, Backend, Python |
+| [**CodeJury - Yapay Zeka Ajanları**](https://github.com/VisusVision/CodeJury) | Kod değerlendirme ve karar destek süreçlerinde kullanılan yapay zeka ajanlarının geliştirilmesinde aktif rol alıyorum. Ajanların görev akışları, değerlendirme mantığı, backend entegrasyonu ve çok adımlı süreçlerde daha tutarlı çalışması üzerine çalışıyorum. | AI Agents, Backend, Python |
 | **FakeXposer - TEKNOFEST 2025 Yarı Final Projesi** | Tıbbi görüntülerde sahteciliği tespit etmek için CNN ve Vision Transformer mimarilerini geleneksel görüntü işleme algoritmalarıyla birleştiren hibrit yapay zeka sistemi. %90 üzeri doğrulukla TEKNOFEST 2025 Sağlık Teknolojileri kategorisinde yarı finale yükseldi. | Python, OpenCV, CNN, Vision Transformer, SIFT, LBP, DCT |
 | [ULVIS - Kurumsal Lisans ve Varlık İzleme Sistemi](https://github.com/Wrindzler/ULVIS) | Donanım, yazılım lisansı, zimmet, arıza ve satın alma süreçlerini tek panelde yöneten full-stack sistem. | React, Vite, Express, SQLite, JWT |
 | [KOSTÜ Sınav Sistemi](https://github.com/Wrindzler/Sinav-Sistemi) | Admin, öğretim üyesi, öğrenci ve bölüm başkanı rollerine sahip web tabanlı sınav yönetim sistemi. | Flask, React, MySQL, JWT |
