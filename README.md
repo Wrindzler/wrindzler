@@ -46,7 +46,7 @@ Python, C++, SQL, Flask, Node.js, Express.js ve React/Vite ile projeler gelişti
 **IT Stajyeri - Kocaeli Kaya, Türkiye (2025)**  
 Kaya Plaza bünyesindeki çalışanların donanım ve yazılım kaynaklı teknik sorunlarının giderilmesinde aktif rol aldım. Help-desk süreçlerine benzer şekilde kullanıcı taleplerini analiz ederek bilgisayar, yazıcı ve ağ bağlantısı sorunlarında çözüm sundum. Sistem kurulumları, güncellemeler ve teknik destek süreçlerinde yer aldım.
 
-**Bilgi Teknolojileri Stajyeri - ÖLÇSAN, Türkiye (2024)**  
+**Siber Güvenlik Stajyeri - ÖLÇSAN, Türkiye (2024)**  
 ISO 27001 ve ISMS çerçevelerine uygun bilgi güvenliği süreçlerini gözlemleme ve destekleme fırsatı buldum. Risk analizi, zafiyet taraması, ağ tarama araçları, VPN protokolleri ve Kali Linux komut satırı kullanımı üzerine pratik çalışmalar yaptım.
 
 ## Başarılar
