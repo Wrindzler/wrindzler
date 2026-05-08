@@ -1,62 +1,62 @@
-# Emre Berk Guç
+# Emre Berk Güç
 
 <div align="center">
 
-**Computer Engineering Student | Cybersecurity & Full-Stack Development**
+**Bilgisayar Mühendisliği Öğrencisi | Siber Güvenlik & Full-Stack Geliştirme**
 
-Kocaeli, Turkiye · [LinkedIn](https://www.linkedin.com/in/emrebg/) · [GitHub](https://github.com/Wrindzler) · **emreguc413@gmail.com**
+Kocaeli, Türkiye · [LinkedIn](https://www.linkedin.com/in/emrebg/) · [GitHub](https://github.com/Wrindzler) · **emreguc413@gmail.com**
 
 </div>
 
 ---
 
-## About Me
+## Hakkımda
 
-Merhaba, ben **Emre Berk Guç**. **Kocaeli Health and Technology University**'de **3. sinif Bilgisayar Muhendisligi** ogrencisiyim. Yazilim gelistirme, bilgi guvenligi ve veri tabani temelli sistemler uzerine calisiyorum.
+Merhaba, ben **Emre Berk Güç**. **Kocaeli Sağlık ve Teknoloji Üniversitesi**'nde **3. sınıf Bilgisayar Mühendisliği** öğrencisiyim. Yazılım geliştirme, bilgi güvenliği ve veri tabanı temelli sistemler üzerine çalışıyorum.
 
-Ozellikle **Python**, **C++**, **SQL**, **Flask**, **React/Vite**, **Node.js** ve **siber guvenlik** alanlarinda projeler gelistiriyorum. Amacim; guvenli, kullanilabilir ve gercek ihtiyaclara dokunan yazilimlar uretmek.
+Özellikle **Python**, **C++**, **SQL**, **Flask**, **React/Vite**, **Node.js** ve **siber güvenlik** alanlarında projeler geliştiriyorum. Amacım; güvenli, kullanılabilir ve gerçek ihtiyaçlara dokunan yazılımlar üretmek.
 
-## Focus Areas
+## Odak Alanlarım
 
-- Cybersecurity: penetration testing, information gathering, vulnerability analysis, ISO 27001, ISMS and risk analysis
-- Backend & Web: Flask, Express.js, REST API design, authentication and role-based access control
-- Frontend: React, Vite, responsive interfaces and dashboard-style applications
-- Databases: SQLite, MySQL, SQLAlchemy and data modeling
-- Programming: Python, C++, JavaScript, SQL
+- Siber güvenlik: penetration testing, information gathering, vulnerability analysis, ISO 27001, ISMS ve risk analizi
+- Backend & web: Flask, Express.js, REST API tasarımı, authentication ve role-based access control
+- Frontend: React, Vite, responsive arayüzler ve dashboard uygulamaları
+- Veritabanı: SQLite, MySQL, SQLAlchemy ve veri modelleme
+- Programlama: Python, C++, JavaScript, SQL
 
-## Featured Projects
+## Öne Çıkan Projeler
 
-| Project | Description | Tech |
+| Proje | Açıklama | Teknolojiler |
 | --- | --- | --- |
-| [ULVIS - Kurumsal Lisans ve Varlik Izleme Sistemi](https://github.com/Wrindzler/ULVIS) | Donanim, yazilim lisansi, zimmet, ariza ve satin alma sureclerini tek panelde yoneten full-stack sistem. | React, Vite, Express, SQLite, JWT |
-| [KOSTU Sinav Sistemi](https://github.com/Wrindzler/Sinav-Sistemi) | Admin, ogretim uyesi, ogrenci ve bolum baskani rollerine sahip web tabanli sinav yonetim sistemi. | Flask, React, MySQL, JWT |
-| [Universite Sinav Programi Hazirlama Uygulamasi](https://github.com/Wrindzler/University-Examination-Planning-System) | Sinavlari derslik kapasitesi, ogretim uyesi uygunlugu ve cakisma kisitlarina gore planlayan Flask uygulamasi. | Flask, SQLAlchemy, SQLite, PDF/Excel |
-| [Uni Sinav Sistemi](https://github.com/Wrindzler/uni_sinav_sistemi) | Universite sinav programlarini otomatik olusturmaya odaklanan web tabanli planlama sistemi. | Flask, SQLAlchemy, ReportLab, OpenPyXL |
-| [Hastane Randevu Sistemi](https://github.com/Wrindzler/hrs) | MHRS benzeri randevu alma deneyimi sunan Flask tabanli web uygulamasi. | Python, Flask, SQLite |
-| [Library Management System](https://github.com/Wrindzler/lms) | Kutuphane kaynaklarini ve temel islemleri takip etmek icin hazirlanmis yonetim sistemi. | Python / SQL |
-| [Hotel Reservation Optimizer](https://github.com/Wrindzler/hotelreservations) | Mevcut otel rezervasyonlarini daha avantajli fiyatlarla karsilastirip guncelleyen script. | Python, CSV |
-| [Star Wars Maze Game](https://github.com/Wrindzler/starwarsgame) | Star Wars temali labirent oyunu. | Game Development |
-| [Ball Animation - Tkinter](https://github.com/Wrindzler/labproje1) | Tkinter ile renk, boyut, hiz ve hareket kontrolu olan top animasyonu. | Python, Tkinter |
-| [Tas Kagit Makas Oyunu](https://github.com/Wrindzler/Tas-Kagit-Makas-oyunu) | Tur sayisi belirlenebilen, bilgisayara karsi oynanan konsol oyunu. | Python |
+| [ULVIS - Kurumsal Lisans ve Varlık İzleme Sistemi](https://github.com/Wrindzler/ULVIS) | Donanım, yazılım lisansı, zimmet, arıza ve satın alma süreçlerini tek panelde yöneten full-stack sistem. | React, Vite, Express, SQLite, JWT |
+| [KOSTÜ Sınav Sistemi](https://github.com/Wrindzler/Sinav-Sistemi) | Admin, öğretim üyesi, öğrenci ve bölüm başkanı rollerine sahip web tabanlı sınav yönetim sistemi. | Flask, React, MySQL, JWT |
+| [Üniversite Sınav Programı Hazırlama Uygulaması](https://github.com/Wrindzler/University-Examination-Planning-System) | Sınavları derslik kapasitesi, öğretim üyesi uygunluğu ve çakışma kısıtlarına göre planlayan Flask uygulaması. | Flask, SQLAlchemy, SQLite, PDF/Excel |
+| [Uni Sınav Sistemi](https://github.com/Wrindzler/uni_sinav_sistemi) | Üniversite sınav programlarını otomatik oluşturmaya odaklanan web tabanlı planlama sistemi. | Flask, SQLAlchemy, ReportLab, OpenPyXL |
+| [Hastane Randevu Sistemi](https://github.com/Wrindzler/hrs) | MHRS benzeri randevu alma deneyimi sunan Flask tabanlı web uygulaması. | Python, Flask, SQLite |
+| [Library Management System](https://github.com/Wrindzler/lms) | Kütüphane kaynaklarını ve temel işlemleri takip etmek için hazırlanmış yönetim sistemi. | Python / SQL |
+| [Hotel Reservation Optimizer](https://github.com/Wrindzler/hotelreservations) | Mevcut otel rezervasyonlarını daha avantajlı fiyatlarla karşılaştırıp güncelleyen script. | Python, CSV |
+| [Star Wars Maze Game](https://github.com/Wrindzler/starwarsgame) | Star Wars temalı labirent oyunu. | Game Development |
+| [Ball Animation - Tkinter](https://github.com/Wrindzler/labproje1) | Tkinter ile renk, boyut, hız ve hareket kontrolü olan top animasyonu. | Python, Tkinter |
+| [Taş Kağıt Makas Oyunu](https://github.com/Wrindzler/Tas-Kagit-Makas-oyunu) | Tur sayısı belirlenebilen, bilgisayara karşı oynanan konsol oyunu. | Python |
 
-## Achievements
+## Başarılar
 
-- Spring 2024 KOSTU Python League Champion
-- Spring 2024 KOSTU Hackathon Champion
-- Cyber Security Intern at OLÇSAN (2024)
+- Spring 2024 KOSTÜ Python League Champion
+- Spring 2024 KOSTÜ Hackathon Champion
+- ÖLÇSAN Siber Güvenlik Stajyeri (2024)
 
-## Education
+## Eğitim
 
-**Kocaeli Health and Technology University**  
+**Kocaeli Sağlık ve Teknoloji Üniversitesi**  
 BSc, Computer Engineering · 2023 - Present  
 GPA: **3.08 / 4.00**
 
-## Certifications & Courses
+## Sertifikalar & Kurslar
 
 - Introduction to Cybersecurity - Cisco (2024)
 - Responsive Web Design - freeCodeCamp (2024)
 - Beginner Frontend Web Development - Patika.dev (2024)
-- Akbank Python Bootcamp: Yeni Nesil Proje Kampi - Global AI Hub (2024)
+- Akbank Python Bootcamp: Yeni Nesil Proje Kampı - Global AI Hub (2024)
 
 ## Tech Stack
 
@@ -71,7 +71,7 @@ GPA: **3.08 / 4.00**
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 </p>
 
-## GitHub Stats
+## GitHub İstatistikleri
 
 <div align="center">
 
@@ -80,7 +80,7 @@ GPA: **3.08 / 4.00**
 
 </div>
 
-## Contact
+## İletişim
 
 - Email: **emreguc413@gmail.com**
 - LinkedIn: [linkedin.com/in/emrebg](https://www.linkedin.com/in/emrebg/)
