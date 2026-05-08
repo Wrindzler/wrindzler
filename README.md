@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Bilgisayar Mühendisliği Öğrencisi | Siber Güvenlik, Yapay Zeka & Full-Stack Geliştirme**
+**Bilgisayar Mühendisliği Öğrencisi | Backend Geliştirme & Full-Stack Projeler**
 
 Kocaeli, Türkiye · [LinkedIn](https://www.linkedin.com/in/emrebg/) · [GitHub](https://github.com/Wrindzler) · **emreguc413@gmail.com**
 
@@ -12,18 +12,18 @@ Kocaeli, Türkiye · [LinkedIn](https://www.linkedin.com/in/emrebg/) · [GitHub]
 
 ## Hakkımda
 
-Merhaba, ben **Emre Berk Güç**. **Kocaeli Sağlık ve Teknoloji Üniversitesi**'nde **3. sınıf Bilgisayar Mühendisliği** öğrencisiyim. Yazılım geliştirme, siber güvenlik, yapay zeka ve veri tabanı temelli sistemler üzerine çalışıyorum.
+Merhaba, ben **Emre Berk Güç**. **Kocaeli Sağlık ve Teknoloji Üniversitesi**'nde **3. sınıf Bilgisayar Mühendisliği** öğrencisiyim. Backend geliştirme, veri tabanı tasarımı ve web tabanlı sistemler üzerine çalışıyorum.
 
-Python, C++, SQL, Flask, React/Vite, Node.js ve görüntü işleme alanlarında projeler geliştiriyorum. Özellikle güvenli, kullanılabilir ve gerçek problemlere çözüm üreten sistemler tasarlamaya odaklanıyorum.
+Python, C++, SQL, Flask, Node.js, Express.js ve React/Vite ile projeler geliştiriyorum. Özellikle temiz API yapıları, rol tabanlı kullanıcı sistemleri, veritabanı modelleme ve gerçek ihtiyaçlara çözüm üreten uygulamalar geliştirmeye odaklanıyorum.
 
 ## Odak Alanlarım
 
-- Siber güvenlik: penetration testing, information gathering, vulnerability analysis, ISO 27001, ISMS ve risk analizi
+- Backend geliştirme: Flask, Express.js, REST API tasarımı, authentication ve role-based access control
+- Veritabanı: SQLite, MySQL, SQLAlchemy, veri modelleme ve CRUD süreçleri
+- Full-stack geliştirme: React, Vite, dashboard arayüzleri ve API entegrasyonları
 - Yapay zeka & görüntü işleme: CNN, Vision Transformer, OpenCV, SIFT, LBP, DCT ve hibrit model tasarımı
-- Backend & web: Flask, Express.js, REST API tasarımı, authentication ve role-based access control
-- Frontend: React, Vite, responsive arayüzler ve dashboard uygulamaları
-- Ağ & sanallaştırma: TCP/IP, switch/router altyapısı, Cisco Packet Tracer, VMware Workstation, Wireshark
-- Programlama & veritabanı: Python, C++, JavaScript, SQL, SQLite, MySQL, SQLAlchemy
+- Ağ & sistem temelleri: TCP/IP, switch/router altyapısı, Cisco Packet Tracer, VMware Workstation, Wireshark
+- Programlama: Python, C++, JavaScript, SQL
 
 ## Öne Çıkan Projeler
 
@@ -46,8 +46,8 @@ Python, C++, SQL, Flask, React/Vite, Node.js ve görüntü işleme alanlarında 
 **IT Stajyeri - Kocaeli Kaya, Türkiye (2025)**  
 Kaya Plaza bünyesindeki çalışanların donanım ve yazılım kaynaklı teknik sorunlarının giderilmesinde aktif rol aldım. Help-desk süreçlerine benzer şekilde kullanıcı taleplerini analiz ederek bilgisayar, yazıcı ve ağ bağlantısı sorunlarında çözüm sundum. Sistem kurulumları, güncellemeler ve teknik destek süreçlerinde yer aldım.
 
-**Siber Güvenlik Stajyeri - ÖLÇSAN, Türkiye (2024)**  
-ISO 27001 ve ISMS çerçevelerine uygun bilgi güvenliği süreçlerinde uygulamalı deneyim kazandım. Risk analizi, zafiyet taraması, bilgi toplama, Nmap ile ağ tarama ve Metasploit/msfconsole ile sızma testi pratikleri yaptım. VPN protokolleri ve Kali Linux komut satırı kullanımı üzerine çalıştım.
+**Bilgi Teknolojileri Stajyeri - ÖLÇSAN, Türkiye (2024)**  
+ISO 27001 ve ISMS çerçevelerine uygun bilgi güvenliği süreçlerini gözlemleme ve destekleme fırsatı buldum. Risk analizi, zafiyet taraması, ağ tarama araçları, VPN protokolleri ve Kali Linux komut satırı kullanımı üzerine pratik çalışmalar yaptım.
 
 ## Başarılar
 
@@ -73,14 +73,15 @@ GPA: **3.23 / 4.00**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 ## Kişisel Beceriler
