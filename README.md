@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Bilgisayar Mühendisliği Öğrencisi | Siber Güvenlik & Full-Stack Geliştirme**
+**Bilgisayar Mühendisliği Öğrencisi | Siber Güvenlik, Yapay Zeka & Full-Stack Geliştirme**
 
 Kocaeli, Türkiye · [LinkedIn](https://www.linkedin.com/in/emrebg/) · [GitHub](https://github.com/Wrindzler) · **emreguc413@gmail.com**
 
@@ -12,22 +12,24 @@ Kocaeli, Türkiye · [LinkedIn](https://www.linkedin.com/in/emrebg/) · [GitHub]
 
 ## Hakkımda
 
-Merhaba, ben **Emre Berk Güç**. **Kocaeli Sağlık ve Teknoloji Üniversitesi**'nde **3. sınıf Bilgisayar Mühendisliği** öğrencisiyim. Yazılım geliştirme, bilgi güvenliği ve veri tabanı temelli sistemler üzerine çalışıyorum.
+Merhaba, ben **Emre Berk Güç**. **Kocaeli Sağlık ve Teknoloji Üniversitesi**'nde **3. sınıf Bilgisayar Mühendisliği** öğrencisiyim. Yazılım geliştirme, siber güvenlik, yapay zeka ve veri tabanı temelli sistemler üzerine çalışıyorum.
 
-Özellikle **Python**, **C++**, **SQL**, **Flask**, **React/Vite**, **Node.js** ve **siber güvenlik** alanlarında projeler geliştiriyorum. Amacım; güvenli, kullanılabilir ve gerçek ihtiyaçlara dokunan yazılımlar üretmek.
+Python, C++, SQL, Flask, React/Vite, Node.js ve görüntü işleme alanlarında projeler geliştiriyorum. Özellikle güvenli, kullanılabilir ve gerçek problemlere çözüm üreten sistemler tasarlamaya odaklanıyorum.
 
 ## Odak Alanlarım
 
 - Siber güvenlik: penetration testing, information gathering, vulnerability analysis, ISO 27001, ISMS ve risk analizi
+- Yapay zeka & görüntü işleme: CNN, Vision Transformer, OpenCV, SIFT, LBP, DCT ve hibrit model tasarımı
 - Backend & web: Flask, Express.js, REST API tasarımı, authentication ve role-based access control
 - Frontend: React, Vite, responsive arayüzler ve dashboard uygulamaları
-- Veritabanı: SQLite, MySQL, SQLAlchemy ve veri modelleme
-- Programlama: Python, C++, JavaScript, SQL
+- Ağ & sanallaştırma: TCP/IP, switch/router altyapısı, Cisco Packet Tracer, VMware Workstation, Wireshark
+- Programlama & veritabanı: Python, C++, JavaScript, SQL, SQLite, MySQL, SQLAlchemy
 
 ## Öne Çıkan Projeler
 
 | Proje | Açıklama | Teknolojiler |
 | --- | --- | --- |
+| **FakeXposer - TEKNOFEST 2025 Yarı Final Projesi** | Tıbbi görüntülerde sahteciliği tespit etmek için CNN ve Vision Transformer mimarilerini geleneksel görüntü işleme algoritmalarıyla birleştiren hibrit yapay zeka sistemi. %90 üzeri doğrulukla TEKNOFEST 2025 Sağlık Teknolojileri kategorisinde yarı finale yükseldi. | Python, OpenCV, CNN, Vision Transformer, SIFT, LBP, DCT |
 | [ULVIS - Kurumsal Lisans ve Varlık İzleme Sistemi](https://github.com/Wrindzler/ULVIS) | Donanım, yazılım lisansı, zimmet, arıza ve satın alma süreçlerini tek panelde yöneten full-stack sistem. | React, Vite, Express, SQLite, JWT |
 | [KOSTÜ Sınav Sistemi](https://github.com/Wrindzler/Sinav-Sistemi) | Admin, öğretim üyesi, öğrenci ve bölüm başkanı rollerine sahip web tabanlı sınav yönetim sistemi. | Flask, React, MySQL, JWT |
 | [Üniversite Sınav Programı Hazırlama Uygulaması](https://github.com/Wrindzler/University-Examination-Planning-System) | Sınavları derslik kapasitesi, öğretim üyesi uygunluğu ve çakışma kısıtlarına göre planlayan Flask uygulaması. | Flask, SQLAlchemy, SQLite, PDF/Excel |
@@ -39,17 +41,25 @@ Merhaba, ben **Emre Berk Güç**. **Kocaeli Sağlık ve Teknoloji Üniversitesi*
 | [Ball Animation - Tkinter](https://github.com/Wrindzler/labproje1) | Tkinter ile renk, boyut, hız ve hareket kontrolü olan top animasyonu. | Python, Tkinter |
 | [Taş Kağıt Makas Oyunu](https://github.com/Wrindzler/Tas-Kagit-Makas-oyunu) | Tur sayısı belirlenebilen, bilgisayara karşı oynanan konsol oyunu. | Python |
 
+## Deneyim
+
+**IT Stajyeri - Kocaeli Kaya, Türkiye (2025)**  
+Kaya Plaza bünyesindeki çalışanların donanım ve yazılım kaynaklı teknik sorunlarının giderilmesinde aktif rol aldım. Help-desk süreçlerine benzer şekilde kullanıcı taleplerini analiz ederek bilgisayar, yazıcı ve ağ bağlantısı sorunlarında çözüm sundum. Sistem kurulumları, güncellemeler ve teknik destek süreçlerinde yer aldım.
+
+**Siber Güvenlik Stajyeri - ÖLÇSAN, Türkiye (2024)**  
+ISO 27001 ve ISMS çerçevelerine uygun bilgi güvenliği süreçlerinde uygulamalı deneyim kazandım. Risk analizi, zafiyet taraması, bilgi toplama, Nmap ile ağ tarama ve Metasploit/msfconsole ile sızma testi pratikleri yaptım. VPN protokolleri ve Kali Linux komut satırı kullanımı üzerine çalıştım.
+
 ## Başarılar
 
+- FakeXposer - TEKNOFEST 2025 Yarı Final Projesi, Sağlık Teknolojileri Kategorisi
 - Spring 2024 KOSTÜ Python League Champion
 - Spring 2024 KOSTÜ Hackathon Champion
-- ÖLÇSAN Siber Güvenlik Stajyeri (2024)
 
 ## Eğitim
 
 **Kocaeli Sağlık ve Teknoloji Üniversitesi**  
 BSc, Computer Engineering · 2023 - Present  
-GPA: **3.08 / 4.00**
+GPA: **3.23 / 4.00**
 
 ## Sertifikalar & Kurslar
 
@@ -67,9 +77,20 @@ GPA: **3.08 / 4.00**
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
 </p>
+
+## Kişisel Beceriler
+
+Eleştirel düşünme, problem çözme, yaratıcılık, iletişim ve uyum sağlama.
+
+## Dil Yetkinliği
+
+- Turkish: Native
+- English: C1
 
 ## GitHub İstatistikleri
 
