@@ -22,7 +22,7 @@ I am currently contributing to [**CodeJury**](https://github.com/VisusVision/Cod
 
 - **Backend Development:** REST APIs, authentication, role-based access control, service structure, and backend integration
 - **AI Agent Systems:** agent behavior design, multi-step evaluation workflows, decision pipelines, and backend-connected agent orchestration
-- **Databases:** SQLite, MySQL, SQLAlchemy, data modeling, CRUD flows, and relational design
+- **Databases:** SQLite, MySQL, SQLAlchemy, PostgreSQL, data modeling, CRUD flows, and relational design
 - **Full-Stack Development:** React, Vite, dashboard interfaces, API integration, and user-facing workflows
 - **AI & Computer Vision:** CNN, Vision Transformer, OpenCV, SIFT, LBP, DCT, and hybrid model design
 - **Systems & Networking Fundamentals:** TCP/IP, switch/router basics, Cisco Packet Tracer, VMware Workstation, and Wireshark
